@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Higher [Remix]（feat. YZERR、Tiji Jojo、eyden、Bonbero）",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-01-06T14:04:22.444478Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Higher - Remix",
+      "artist": "¥ellow Bucks, YZERR, Tiji Jojo, eyden, Bonbero, SEEDA, Zen Masuta",
+      "has_synced": false,
+      "path": "select/pl_01_Higher_-_Remix_¥ellow_Bucks,_YZERR,_Tiji_Jojo,_eyden,_Bonbero,_SEEDA,_Zen_Masuta.txt"
+    }
+  ]
+}
